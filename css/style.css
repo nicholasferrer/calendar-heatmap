@@ -1,0 +1,44 @@
+.calendar-heatmap {
+  overflow: visible;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+.arvore-bg {
+  font-size: 14px;
+  background-color: #322348;
+}
+
+.arvore-bg:hover {
+  text-decoration: none;
+  background-color: #231832;
+}
+
+.btn-secondary {
+  color: #6c757d;
+  background-color: #fff;
+  border: none;
+}
+
+.btn-secondary:hover {
+  color: #0366d6!important;
+  background-color: #fff;
+  text-decoration: none;
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle {
+  color: #0366d6;
+  background-color: #fff;
+  border: none;
+}
+
+.list{
+  list-style-type: none;
+}
+
+.btn-white:hover{
+  background-color: #eaecef;
+  text-decoration: none;
+}
